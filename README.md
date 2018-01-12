@@ -1,10 +1,13 @@
 # CST Option Placement Program Guide
 
-The CST program will incorporate a web application to help automate and ease the process of assigning students into their preferred Options using Java Enterprise on top of the Spring Boot Baeldung framework. This project will help reduce the time and effort in the CST department when allocating students to Options. The final deliverable will be used by BCIT’s CST Faculty such as Program Head or Program Assistant. The project completion date is December 15, 2017.
+The CST program will incorporate a web application to help automate and ease the process of assigning students into their preferred Options using Spring Boot Baeldung framework, a Java framework. This project will help reduce the time and effort in the CST department when allocating students to Options. The final deliverable will be used by BCIT’s CST Faculty such as Program Head or Program Assistant. The project completion date is December 15, 2017.
 
 ## Getting Started
 
-THe JavaRepo is our program side of the project and runs algorithm to place student according to their GPA and priority levels. Keep on reading on instructions to get this JavaRepo up and running!
+The JavaRepo is our program side of the project and runs algorithm to place student according to their GPA and priority levels. Keep on reading on instructions to get this JavaRepo up and running!
+
+#### ***NOTE***
+This is only a console / test environment to be used for debugging and testing.
 
 ### Prerequisites
 
